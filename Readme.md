@@ -13,7 +13,7 @@ To run this project, you will need to have a web browser installed on your local
 ## Installing
 
 1. Clone the repository to your local machine using the command below:
-   git clone https://github.com/UY24/spacex-clone.git
+   git clone https://github.com/UY24/SpaceX-Clone.git
 2. Navigate to the project directory:
    cd spacex-clone
 3. Open the index.html file in your web browser.
